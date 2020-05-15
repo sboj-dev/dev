@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://sboj.io/dev/static/css/main.89d4244b.chunk.css",
-    "main.js": "https://sboj.io/dev/static/js/main.bc90e14c.chunk.js",
-    "main.js.map": "https://sboj.io/dev/static/js/main.bc90e14c.chunk.js.map",
+    "main.js": "https://sboj.io/dev/static/js/main.e885d6ea.chunk.js",
+    "main.js.map": "https://sboj.io/dev/static/js/main.e885d6ea.chunk.js.map",
     "runtime-main.js": "https://sboj.io/dev/static/js/runtime-main.ae2dddc9.js",
     "runtime-main.js.map": "https://sboj.io/dev/static/js/runtime-main.ae2dddc9.js.map",
     "static/js/2.f3b0d2ea.chunk.js": "https://sboj.io/dev/static/js/2.f3b0d2ea.chunk.js",
     "static/js/2.f3b0d2ea.chunk.js.map": "https://sboj.io/dev/static/js/2.f3b0d2ea.chunk.js.map",
     "index.html": "https://sboj.io/dev/index.html",
-    "precache-manifest.51f5a03c4fa4cb087553cf3cd6fdcb44.js": "https://sboj.io/dev/precache-manifest.51f5a03c4fa4cb087553cf3cd6fdcb44.js",
+    "precache-manifest.e9efcf0a7c52870919a71d8cb7a82d6b.js": "https://sboj.io/dev/precache-manifest.e9efcf0a7c52870919a71d8cb7a82d6b.js",
     "service-worker.js": "https://sboj.io/dev/service-worker.js",
     "static/css/main.89d4244b.chunk.css.map": "https://sboj.io/dev/static/css/main.89d4244b.chunk.css.map",
     "static/js/2.f3b0d2ea.chunk.js.LICENSE.txt": "https://sboj.io/dev/static/js/2.f3b0d2ea.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ae2dddc9.js",
     "static/js/2.f3b0d2ea.chunk.js",
     "static/css/main.89d4244b.chunk.css",
-    "static/js/main.bc90e14c.chunk.js"
+    "static/js/main.e885d6ea.chunk.js"
   ]
 }
