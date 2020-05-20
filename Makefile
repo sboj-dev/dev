@@ -1,4 +1,5 @@
 deploy:
+	cd ../frontend && yarn build-dev
 	rm -rf *.json
 	rm -rf *.js
 	rm -rf *.html
