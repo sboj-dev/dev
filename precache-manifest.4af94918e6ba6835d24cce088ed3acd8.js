@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "22cde5a8aebc2548fccbe6cb9cb151d9",
+    "revision": "c315306e28ea6861a4f63dbfe5e39c00",
     "url": "https://sboj.io/dev/index.html"
   },
   {
-    "revision": "6697c7a34a485ea35e4d",
+    "revision": "86b86535e22a6f438b06",
     "url": "https://sboj.io/dev/static/css/main.cdc36091.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://sboj.io/dev/static/js/2.ce2c53bd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6697c7a34a485ea35e4d",
-    "url": "https://sboj.io/dev/static/js/main.f8dbcdee.chunk.js"
+    "revision": "86b86535e22a6f438b06",
+    "url": "https://sboj.io/dev/static/js/main.9bfee9df.chunk.js"
   },
   {
     "revision": "7ffc6aa85c3e3f768065",
